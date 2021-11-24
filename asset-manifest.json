@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/wearher-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/wearher-app/static/js/main.f1aea93c.chunk.js",
-    "main.js.map": "/wearher-app/static/js/main.f1aea93c.chunk.js.map",
+    "main.js": "/wearher-app/static/js/main.e90bbff9.chunk.js",
+    "main.js.map": "/wearher-app/static/js/main.e90bbff9.chunk.js.map",
     "runtime-main.js": "/wearher-app/static/js/runtime-main.fa1828cf.js",
     "runtime-main.js.map": "/wearher-app/static/js/runtime-main.fa1828cf.js.map",
-    "static/js/2.5aa150da.chunk.js": "/wearher-app/static/js/2.5aa150da.chunk.js",
-    "static/js/2.5aa150da.chunk.js.map": "/wearher-app/static/js/2.5aa150da.chunk.js.map",
+    "static/js/2.afad2411.chunk.js": "/wearher-app/static/js/2.afad2411.chunk.js",
+    "static/js/2.afad2411.chunk.js.map": "/wearher-app/static/js/2.afad2411.chunk.js.map",
     "static/js/3.21fd105d.chunk.js": "/wearher-app/static/js/3.21fd105d.chunk.js",
     "static/js/3.21fd105d.chunk.js.map": "/wearher-app/static/js/3.21fd105d.chunk.js.map",
     "index.html": "/wearher-app/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/wearher-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.5aa150da.chunk.js.LICENSE.txt": "/wearher-app/static/js/2.5aa150da.chunk.js.LICENSE.txt"
+    "static/js/2.afad2411.chunk.js.LICENSE.txt": "/wearher-app/static/js/2.afad2411.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa1828cf.js",
-    "static/js/2.5aa150da.chunk.js",
+    "static/js/2.afad2411.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f1aea93c.chunk.js"
+    "static/js/main.e90bbff9.chunk.js"
   ]
 }
