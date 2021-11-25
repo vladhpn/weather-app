@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/wearher-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/wearher-app/static/js/main.e90bbff9.chunk.js",
-    "main.js.map": "/wearher-app/static/js/main.e90bbff9.chunk.js.map",
-    "runtime-main.js": "/wearher-app/static/js/runtime-main.fa1828cf.js",
-    "runtime-main.js.map": "/wearher-app/static/js/runtime-main.fa1828cf.js.map",
-    "static/js/2.afad2411.chunk.js": "/wearher-app/static/js/2.afad2411.chunk.js",
-    "static/js/2.afad2411.chunk.js.map": "/wearher-app/static/js/2.afad2411.chunk.js.map",
-    "static/js/3.21fd105d.chunk.js": "/wearher-app/static/js/3.21fd105d.chunk.js",
-    "static/js/3.21fd105d.chunk.js.map": "/wearher-app/static/js/3.21fd105d.chunk.js.map",
+    "main.css": "/wearher-app/static/css/main.0714a5a7.chunk.css",
+    "main.js": "/wearher-app/static/js/main.26aae125.chunk.js",
+    "main.js.map": "/wearher-app/static/js/main.26aae125.chunk.js.map",
+    "runtime-main.js": "/wearher-app/static/js/runtime-main.cb98870e.js",
+    "runtime-main.js.map": "/wearher-app/static/js/runtime-main.cb98870e.js.map",
+    "static/js/2.f8fed742.chunk.js": "/wearher-app/static/js/2.f8fed742.chunk.js",
+    "static/js/2.f8fed742.chunk.js.map": "/wearher-app/static/js/2.f8fed742.chunk.js.map",
+    "static/js/3.2735423f.chunk.js": "/wearher-app/static/js/3.2735423f.chunk.js",
+    "static/js/3.2735423f.chunk.js.map": "/wearher-app/static/js/3.2735423f.chunk.js.map",
     "index.html": "/wearher-app/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/wearher-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.afad2411.chunk.js.LICENSE.txt": "/wearher-app/static/js/2.afad2411.chunk.js.LICENSE.txt"
+    "static/css/main.0714a5a7.chunk.css.map": "/wearher-app/static/css/main.0714a5a7.chunk.css.map",
+    "static/js/2.f8fed742.chunk.js.LICENSE.txt": "/wearher-app/static/js/2.f8fed742.chunk.js.LICENSE.txt",
+    "static/media/styles.module.scss": "/wearher-app/static/media/fog.ae452a59.jpg",
+    "static/media/logo.c79f574b.svg": "/wearher-app/static/media/logo.c79f574b.svg",
+    "static/media/sun.f7d1c112.svg": "/wearher-app/static/media/sun.f7d1c112.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa1828cf.js",
-    "static/js/2.afad2411.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e90bbff9.chunk.js"
+    "static/js/runtime-main.cb98870e.js",
+    "static/js/2.f8fed742.chunk.js",
+    "static/css/main.0714a5a7.chunk.css",
+    "static/js/main.26aae125.chunk.js"
   ]
 }
