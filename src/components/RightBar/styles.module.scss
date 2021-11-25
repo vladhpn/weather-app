@@ -1,0 +1,47 @@
+.box {
+  overflow: hidden;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 35%;
+  box-sizing: border-box;
+}
+.box:before {
+  content: '';
+  position: absolute;
+  background-image: url('../../img/fog.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: absolute;
+  width: 110%;
+  height: 110%;
+  top: -5%;
+  left: -5%;
+  z-index: 1;
+
+  filter: blur(10px);
+}
+
+.weather_box {
+  position: relative;
+  z-index: 2;
+  padding-left: 50px;
+}
+
+.content_box {
+  position: absolute;
+  bottom: -600px;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: #f3f3f3;
+}
+
+.text {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #f3f3f3;
+}

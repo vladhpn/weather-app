@@ -1,4 +1,5 @@
 import { useState } from "react"
+import styles from './styles.module.scss'
 
 const SearchBar = ({onSubmit}) => {
 
@@ -15,14 +16,16 @@ const SearchBar = ({onSubmit}) => {
     }
 
     return(
-        <form onSubmit={handleSubmit}>
-            <input
+        <div className={styles.div}>
+        <form className={styles.form} onSubmit={handleSubmit} >
+            <input className={styles.input}
             value ={query} onChange={handleChange}
             type="text"
             autoComplete="off"
             autoFocus
-            placeholder="Search citi"></input>
+            placeholder="Search city"></input>
         </form>
+        </div>
     )
 }
 

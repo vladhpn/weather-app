@@ -1,0 +1,20 @@
+.form {
+  padding-left: 50px;
+  padding-top: 40px;
+  z-index: 2;
+  position: relative;
+  width: 100px;
+}
+
+.input {
+  position: relative;
+  background: transparent;
+  width: 300px;
+  height: 30px;
+  border: 0;
+  border-bottom: 1px solid grey;
+  outline: 0;
+  z-index: 2;
+  color: antiquewhite;
+  font-size: 20px;
+}
